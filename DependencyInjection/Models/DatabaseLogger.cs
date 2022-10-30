@@ -1,10 +1,12 @@
 ﻿using System;
 namespace DependencyInjection.Models
 {
-    public class DatabaseLogger
+    public class DatabaseLogger : ILogger
     {
-        public DatabaseLogger()
+       
+        public void PrintLog()
         {
+            throw new NotImplementedException();
         }
     }
 }

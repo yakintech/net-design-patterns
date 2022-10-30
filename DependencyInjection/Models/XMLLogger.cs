@@ -5,7 +5,7 @@ namespace DependencyInjection.Models
     {
         public void PrintLog()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("XML Log..");
         }
     }
 }

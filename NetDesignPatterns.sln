@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPattern", "BuilderPa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection", "DependencyInjection\DependencyInjection.csproj", "{D342A46B-E818-4337-8678-8CD0D66BC900}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection2", "DependencyInjection2\DependencyInjection2.csproj", "{8A5D274C-B23B-4935-9779-07686C64DC74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatePattern", "StatePattern\StatePattern.csproj", "{DC035500-B2EA-4401-B206-6FBC6797922D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{D342A46B-E818-4337-8678-8CD0D66BC900}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D342A46B-E818-4337-8678-8CD0D66BC900}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D342A46B-E818-4337-8678-8CD0D66BC900}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A5D274C-B23B-4935-9779-07686C64DC74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A5D274C-B23B-4935-9779-07686C64DC74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A5D274C-B23B-4935-9779-07686C64DC74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A5D274C-B23B-4935-9779-07686C64DC74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC035500-B2EA-4401-B206-6FBC6797922D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC035500-B2EA-4401-B206-6FBC6797922D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC035500-B2EA-4401-B206-6FBC6797922D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC035500-B2EA-4401-B206-6FBC6797922D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

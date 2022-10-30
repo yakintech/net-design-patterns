@@ -10,4 +10,4 @@ ProductManager manager = new ProductManager(logger);
 
 manager.AddProduct(product);
 
-
+Console.Read();
