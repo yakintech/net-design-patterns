@@ -11,8 +11,8 @@ namespace BuilderPattern.Models
         }
 
         public abstract void SetPrice();
-       public abstract void SetBrand();
-       public abstract void SetId();
+        public abstract void SetBrand();
+        public abstract void SetId();
         public abstract void SetName();
 
 
