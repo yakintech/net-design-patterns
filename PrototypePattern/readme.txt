@@ -1,0 +1,1 @@
+﻿Yeni nesnelerin kopyalanmasını sağlayan ve bu işlem için Clone metodunu barındıran bir sınıftır.
