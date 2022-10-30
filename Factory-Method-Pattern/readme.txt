@@ -1,0 +1,1 @@
+﻿Gang of Four patternleri günümüz dünyasında en sıkı şekilde takip edilip en çok kullanılan ünlü tasarım desenleridir. Factory pattern'de bu 4 lü den biridir. Kısaca tanımı ; aynı abstract sınıf veya interface'den türeyen nesnelerin üretiminden sorumlu yapıdır. Bu pattern ile nesne yaratılma işini inheritance yoluyla client-side'dan ayırıp sub-classes'lara vermek amaçlanır.
