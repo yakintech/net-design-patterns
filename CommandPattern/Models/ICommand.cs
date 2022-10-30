@@ -1,11 +1,9 @@
 ﻿using System;
 namespace CommandPattern.Models
 {
-    public class ICommand
+    public interface ICommand
     {
-        public ICommand()
-        {
-        }
+        void Execute();
     }
 }
 

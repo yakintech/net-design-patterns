@@ -1,10 +1,11 @@
 ﻿using System;
 namespace CommandPattern.Models
 {
-    public class UndoCommand
+    public class UndoCommand : ICommand
     {
-        public UndoCommand()
+        public void Execute()
         {
+            Console.WriteLine("Undo command worked.");
         }
     }
 }
