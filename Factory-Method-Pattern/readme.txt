@@ -1,0 +1,1 @@
+﻿Kısaca tanımı ; aynı abstract sınıf veya interface'den türeyen nesnelerin üretiminden sorumlu yapıdır. Bu pattern ile nesne yaratılma işini inheritance yoluyla client-side'dan ayırıp sub-classes'lara vermek amaçlanır.

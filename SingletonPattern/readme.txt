@@ -1,0 +1,3 @@
+﻿ bir sınıfımızdan sadece bir nesne oluşturulmasını sağlamak istediğimizde uygulayacağımız Design Pattern, Singleton Pattern’dir. Uygulamamızda oluşturacağımız bu nesne Singleton Pattern sayesinde ikinci bir nesnenin oluşturulmasını engelleyecektir.
+
+Uygulamamızda ne gibi durumlarda kullanılmalı diye soracak olursanız uygulama ayarları gerektiren işlemlerde, bağlantı işlemlerinde kullanılabilmektedir.
